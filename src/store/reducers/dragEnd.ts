@@ -1,4 +1,4 @@
-import { WritableDraft } from "immer/dist/types/types-external";
+import { WritableDraft } from "immer";
 import {
   formulaForColumnOfFour,
   formulaForColumnOfThree,

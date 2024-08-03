@@ -1,6 +1,6 @@
 import { candies } from "../../utils/candyData";
 import { formulaForMoveBelow } from "../../utils/formulas";
-import { WritableDraft } from "immer/dist/types/types-external";
+import { WritableDraft } from "immer";
 
 export const moveBelowReducer = (
   state: WritableDraft<{
