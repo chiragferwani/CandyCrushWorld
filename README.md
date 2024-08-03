@@ -1,3 +1,11 @@
+# Candy Crush World
+
+Sweet Strategy: A React-Powered Candy Crush Clone with Redux, TypeScript, and Tailwind Magic!
+
+![Screenshot 2024-08-03 134546](https://github.com/user-attachments/assets/548c0ba8-649c-4e5f-ac96-dd5b4a8c9781)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
